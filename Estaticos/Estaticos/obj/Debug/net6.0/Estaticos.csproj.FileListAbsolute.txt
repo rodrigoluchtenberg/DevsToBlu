@@ -1,0 +1,15 @@
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.csproj.AssemblyReference.cache
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.AssemblyInfoInputs.cache
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.AssemblyInfo.cs
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.exe
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.deps.json
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.runtimeconfig.json
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.dll
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.pdb
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.dll
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\refint\Estaticos.dll
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.pdb
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.genruntimeconfig.cache
+C:\Users\rodrigo.luchtenberg\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\ref\Estaticos.dll

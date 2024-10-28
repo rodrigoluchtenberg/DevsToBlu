@@ -1,0 +1,3 @@
+﻿using Objetos;
+
+Executar.ExecutarAPlicacao();
